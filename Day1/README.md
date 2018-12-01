@@ -46,4 +46,4 @@ Compile the source code and then run it. Insert all your values, insert a \*, th
 The code will then print out the answer.
 
 ## Link to day
-[https://adventofcode.com/2018/day/1] (Day 1)
+[Day 1](https://adventofcode.com/2018/day/1)
