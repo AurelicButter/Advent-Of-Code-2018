@@ -1,4 +1,7 @@
 # Advent-Of-Code-2018 (Day 1) - Chronal Calibration
+__Link:__ [Day 1](https://adventofcode.com/2018/day/1)
+
+## Problems
 __Part One:__
 
 After feeling like you've been falling for a few minutes, you look at the device's tiny screen. "Error: Device must be calibrated before first use. Frequency drift detected. Cannot maintain destination lock." Below the message, the device shows a sequence of changes in frequency (your puzzle input). A value like +6 means the current frequency increases by 6; a value like -3 means the current frequency decreases by 3.
@@ -44,6 +47,3 @@ What is the first frequency your device reaches twice?
 ## How to Use
 Compile the source code and then run it. Insert all your values, insert a \*, then pick either 1 or a 2 for the correct part.
 The code will then print out the answer.
-
-## Link to day
-[Day 1](https://adventofcode.com/2018/day/1)
