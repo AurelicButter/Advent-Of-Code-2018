@@ -1,0 +1,17 @@
+{
+  "name": "advent-of-code-2018-day3",
+  "version": "1.0.0",
+  "description": "The solution to the day 3 puzzles",
+  "main": "puzzle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "puzzle1": "node puzzle.js",
+    "puzzle2": "node puzzle2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/butterstroke/Advent-of-Code-2018"
+  },
+  "author": "Yvain Hoekstra",
+  "license": "ISC"
+}
